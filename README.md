@@ -24,11 +24,12 @@
 
 
 ## 好文章
-[NIO 与 Netty](https://juejin.cn/post/6956516753752981535?utm_source=gold_browser_extension#heading-9)
-[Socket粘包问题终极解决方案—Netty版](https://juejin.cn/post/6917043797684584461#heading-8)
-[Socket粘包问题的3种解决方案，最后一种最完美！](https://mp.weixin.qq.com/s/ODxGlLrohCveH-2m-BSDWQ)
-[commons-pool2 池化技术探究](https://juejin.cn/post/6956383016469921822?utm_source=gold_browser_extension#heading-15)
-[httpclient架构原理介绍 & 连接池详解](https://blog.csdn.net/u013332124/article/details/82694076)
+- [NIO 与 Netty](https://juejin.cn/post/6956516753752981535?utm_source=gold_browser_extension#heading-9)
+- [Socket粘包问题终极解决方案—Netty版](https://juejin.cn/post/6917043797684584461#heading-8)
+- [Socket粘包问题的3种解决方案，最后一种最完美！](https://mp.weixin.qq.com/s/ODxGlLrohCveH-2m-BSDWQ)
+- [commons-pool2 池化技术探究](https://juejin.cn/post/6956383016469921822?utm_source=gold_browser_extension#heading-15)
+- [httpclient架构原理介绍 & 连接池详解](https://blog.csdn.net/u013332124/article/details/82694076)
+- [Redis 持久化概览](https://juejin.cn/post/6956623396910137381)
 
 # Get Start !
 ```bash

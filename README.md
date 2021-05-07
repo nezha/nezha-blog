@@ -30,6 +30,7 @@
 - [commons-pool2 池化技术探究](https://juejin.cn/post/6956383016469921822?utm_source=gold_browser_extension#heading-15)
 - [httpclient架构原理介绍 & 连接池详解](https://blog.csdn.net/u013332124/article/details/82694076)
 - [Redis 持久化概览](https://juejin.cn/post/6956623396910137381)
+- [认识长轮询：配置中心是如何实现推送的？](https://mp.weixin.qq.com/s/YjvL0sUTGHxR3GJFqrP8qg) ->  了解一下`AsyncContext` 和 `DeferredResult` 异步响应接口模式
 
 # Get Start !
 ```bash

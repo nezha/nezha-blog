@@ -14,6 +14,7 @@
 - [ ] Spring Endpoint原理及扩展
 - [ ] Redis Cluster模式下的双活学习
 - [ ] 可配置化的多线程压测工具整理
+- [x] 并发编程-volatile和synchronized  `2021/05/08`
 
 ## 实战计划整理
 

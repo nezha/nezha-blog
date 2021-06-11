@@ -24,7 +24,6 @@
 - Spring Cloud
   - [Hystrix学习笔记](SpringCloud/Hystrix学习笔记)
   - [Ribbon深度解读](SpringCloud/Ribbon深度解读)
-
 - 数据库
   - Redis
     - [Redis基础入门学习-主从备份及集群配置](数据库/Redis/Redis基础入门学习-主从备份及集群配置)
@@ -34,9 +33,14 @@
   - MySQL
     - [MySQL学习笔记一](数据库/MySQL/MySQL学习笔记一)
     - [MySQL优化之-explain的正确使用方式](数据库/MySQL/MySQL优化之-explain的正确使用方式)
-
-- 分布式系统
-  - [分布式锁的三种实现](分布式系统/分布式锁的三种实现)
-
+- 中间件
+  - [分布式锁的三种实现](中间件/分布式锁的三种实现)
+  - [](中间件/配置中心原型设计(一)之加载自定义配置)
+  - [](中间件/配置中心原型设计(二)之如何启动时配置注入)
+  - [](中间件/配置中心原型设计(三)之长轮询机制)
+  - [](中间件/配置中心原型设计(四)之Value注解如何动态刷新)
 - Java
   - [并发编程-volatile和synchronized](Java/并发编程-volatile和synchronized)
+- 计算机网络
+
+  - [https学习笔记](计算机网络/https学习笔记)

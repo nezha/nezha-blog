@@ -15,6 +15,9 @@
 - [ ] Redis Cluster模式下的双活学习
 - [ ] 可配置化的多线程压测工具整理
 - [x] 并发编程-volatile和synchronized  `2021/05/08`
+- [ ] 如何快速实现配置中心
+- [ ] Apollo是怎么解决`@ConditionalOnProperty`需要启动时注入配置的
+- [ ] Redis如何实现双向同步
 
 ## 实战计划整理
 
@@ -32,6 +35,9 @@
 - [httpclient架构原理介绍 & 连接池详解](https://blog.csdn.net/u013332124/article/details/82694076)
 - [Redis 持久化概览](https://juejin.cn/post/6956623396910137381)
 - [认识长轮询：配置中心是如何实现推送的？](https://mp.weixin.qq.com/s/YjvL0sUTGHxR3GJFqrP8qg) ->  了解一下`AsyncContext` 和 `DeferredResult` 异步响应接口模式
+- [SpringBoot2+Mybatis多数据源切换和动态增减](https://www.jianshu.com/p/6b203f4926d5)
+- [TLS1.2通讯过程](https://www.cnblogs.com/abelchao/p/11804061.html)
+
 
 # Get Start !
 ```bash
